@@ -1,5 +1,5 @@
 # Shadin_Fucker
-rm -rf ABDULLAH-FREE
+rm -rf Shadin_Fucker
 
 git clone https://github.com/SHADIN-FUCKER/Shadin_Fucker.git
 
